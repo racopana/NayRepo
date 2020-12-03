@@ -1,2 +1,5 @@
 NayBot.ate,n
 /Images/SE.png,n
+/Images/tapcardse.png,n
+/Images/continuese.png,n
+/Images/thankse.png,n
